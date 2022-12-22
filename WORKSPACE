@@ -101,7 +101,7 @@ go_repository(
 # ANTLR v4.10.1
 go_repository(
     name = "com_github_antlr_antlr4_runtime_go_antlr",
-    importpath = "github.com/antlr/antlr4/runtime/Go/antlr",
+    importpath = "github.com/celAnyuquan/antlr4",
     sum = "h1:yL7+Jz0jTC6yykIK/Wh74gnTJnrGr5AyrNMXuA0gves=",
     version = "v1.4.10",
 )

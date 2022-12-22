@@ -1,5 +1,5 @@
-github.com/antlr/antlr4/runtime/Go/antlr v1.4.10 h1:yL7+Jz0jTC6yykIK/Wh74gnTJnrGr5AyrNMXuA0gves=
-github.com/antlr/antlr4/runtime/Go/antlr v1.4.10/go.mod h1:F7bn7fEU90QkQ3tnmaTx3LTKLEDqnwWODIYppRQ5hnY=
+github.com/celAnyuquan/antlr4 v1.4.10 h1:yL7+Jz0jTC6yykIK/Wh74gnTJnrGr5AyrNMXuA0gves=
+github.com/celAnyuquan/antlr4 v1.4.10/go.mod h1:F7bn7fEU90QkQ3tnmaTx3LTKLEDqnwWODIYppRQ5hnY=
 github.com/bazelbuild/rules_go v0.35.0 h1:ViPR65vOrg74JKntAUFY6qZkheBKGB6to7wFd8gCRU4=
 github.com/bazelbuild/rules_go v0.35.0/go.mod h1:ahciH68Viyxtm/gvCQplaAiu8buhf/b+gWswcPjFixI=
 github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=

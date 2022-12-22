@@ -7,7 +7,7 @@ import (
 	"sync"
 	"unicode"
 
-	"github.com/antlr/antlr4/runtime/Go/antlr"
+	"github.com/celAnyuquan/antlr4"
 )
 
 // Suppress unused import error

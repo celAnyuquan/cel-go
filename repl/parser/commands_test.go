@@ -18,7 +18,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/antlr/antlr4/runtime/Go/antlr"
+	"github.com/celAnyuquan/antlr4"
 )
 
 type errListener struct {

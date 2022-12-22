@@ -1,7 +1,7 @@
 // Code generated from ./Commands.g4 by ANTLR 4.10.1. DO NOT EDIT.
 
 package parser // Commands
-import "github.com/antlr/antlr4/runtime/Go/antlr"
+import "github.com/celAnyuquan/antlr4"
 
 // BaseCommandsListener is a complete listener for a parse tree produced by CommandsParser.
 type BaseCommandsListener struct{}

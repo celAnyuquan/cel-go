@@ -3,7 +3,7 @@ module github.com/celAnyuquan/cel-go/repl
 go 1.18
 
 require (
-	github.com/antlr/antlr4/runtime/Go/antlr v1.4.10
+	github.com/celAnyuquan/antlr4 v0.0.0-20221222141811-56149c656c39
 	github.com/chzyer/readline v1.5.1
 	github.com/celAnyuquan/cel-go v0.12.5
 	google.golang.org/genproto v0.0.0-20220909194730-69f6226f97e5

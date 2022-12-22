@@ -19,7 +19,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/antlr/antlr4/runtime/Go/antlr"
+	"github.com/celAnyuquan/antlr4"
 
 	"github.com/celAnyuquan/cel-go/repl/parser"
 
