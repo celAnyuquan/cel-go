@@ -28,22 +28,22 @@ import (
 	"google.golang.org/protobuf/reflect/protodesc"
 	"google.golang.org/protobuf/reflect/protoreflect"
 
-	"github.com/google/cel-go/checker"
-	"github.com/google/cel-go/common"
-	"github.com/google/cel-go/common/operators"
-	"github.com/google/cel-go/common/overloads"
-	"github.com/google/cel-go/common/types"
-	"github.com/google/cel-go/common/types/ref"
-	"github.com/google/cel-go/common/types/traits"
-	"github.com/google/cel-go/interpreter"
-	"github.com/google/cel-go/test"
+	"github.com/celAnyuquan/cel-go/checker"
+	"github.com/celAnyuquan/cel-go/common"
+	"github.com/celAnyuquan/cel-go/common/operators"
+	"github.com/celAnyuquan/cel-go/common/overloads"
+	"github.com/celAnyuquan/cel-go/common/types"
+	"github.com/celAnyuquan/cel-go/common/types/ref"
+	"github.com/celAnyuquan/cel-go/common/types/traits"
+	"github.com/celAnyuquan/cel-go/interpreter"
+	"github.com/celAnyuquan/cel-go/test"
 
 	exprpb "google.golang.org/genproto/googleapis/api/expr/v1alpha1"
 	descpb "google.golang.org/protobuf/types/descriptorpb"
 	dynamicpb "google.golang.org/protobuf/types/dynamicpb"
 
-	proto2pb "github.com/google/cel-go/test/proto2pb"
-	proto3pb "github.com/google/cel-go/test/proto3pb"
+	proto2pb "github.com/celAnyuquan/cel-go/test/proto2pb"
+	proto3pb "github.com/celAnyuquan/cel-go/test/proto3pb"
 )
 
 func Test_ExampleWithBuiltins(t *testing.T) {

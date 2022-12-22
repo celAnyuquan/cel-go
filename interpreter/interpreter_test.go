@@ -27,23 +27,23 @@ import (
 
 	"google.golang.org/protobuf/proto"
 
-	"github.com/google/cel-go/checker"
-	"github.com/google/cel-go/checker/decls"
-	"github.com/google/cel-go/common"
-	"github.com/google/cel-go/common/containers"
-	"github.com/google/cel-go/common/types"
-	"github.com/google/cel-go/common/types/ref"
-	"github.com/google/cel-go/common/types/traits"
-	"github.com/google/cel-go/interpreter/functions"
-	"github.com/google/cel-go/parser"
+	"github.com/celAnyuquan/cel-go/checker"
+	"github.com/celAnyuquan/cel-go/checker/decls"
+	"github.com/celAnyuquan/cel-go/common"
+	"github.com/celAnyuquan/cel-go/common/containers"
+	"github.com/celAnyuquan/cel-go/common/types"
+	"github.com/celAnyuquan/cel-go/common/types/ref"
+	"github.com/celAnyuquan/cel-go/common/types/traits"
+	"github.com/celAnyuquan/cel-go/interpreter/functions"
+	"github.com/celAnyuquan/cel-go/parser"
 
 	exprpb "google.golang.org/genproto/googleapis/api/expr/v1alpha1"
 	structpb "google.golang.org/protobuf/types/known/structpb"
 	tpb "google.golang.org/protobuf/types/known/timestamppb"
 	wrapperspb "google.golang.org/protobuf/types/known/wrapperspb"
 
-	proto2pb "github.com/google/cel-go/test/proto2pb"
-	proto3pb "github.com/google/cel-go/test/proto3pb"
+	proto2pb "github.com/celAnyuquan/cel-go/test/proto2pb"
+	proto3pb "github.com/celAnyuquan/cel-go/test/proto3pb"
 )
 
 type testCase struct {

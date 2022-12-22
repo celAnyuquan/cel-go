@@ -21,12 +21,12 @@ import (
 	"io/ioutil"
 	"strings"
 
-	"github.com/google/cel-go/cel"
-	"github.com/google/cel-go/checker/decls"
-	"github.com/google/cel-go/common/types"
-	"github.com/google/cel-go/common/types/ref"
-	"github.com/google/cel-go/interpreter"
-	"github.com/google/cel-go/interpreter/functions"
+	"github.com/celAnyuquan/cel-go/cel"
+	"github.com/celAnyuquan/cel-go/checker/decls"
+	"github.com/celAnyuquan/cel-go/common/types"
+	"github.com/celAnyuquan/cel-go/common/types/ref"
+	"github.com/celAnyuquan/cel-go/interpreter"
+	"github.com/celAnyuquan/cel-go/interpreter/functions"
 
 	"google.golang.org/protobuf/encoding/prototext"
 	"google.golang.org/protobuf/proto"

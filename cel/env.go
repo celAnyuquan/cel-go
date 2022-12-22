@@ -19,14 +19,14 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/google/cel-go/checker"
-	"github.com/google/cel-go/checker/decls"
-	"github.com/google/cel-go/common"
-	"github.com/google/cel-go/common/containers"
-	"github.com/google/cel-go/common/types"
-	"github.com/google/cel-go/common/types/ref"
-	"github.com/google/cel-go/interpreter"
-	"github.com/google/cel-go/parser"
+	"github.com/celAnyuquan/cel-go/checker"
+	"github.com/celAnyuquan/cel-go/checker/decls"
+	"github.com/celAnyuquan/cel-go/common"
+	"github.com/celAnyuquan/cel-go/common/containers"
+	"github.com/celAnyuquan/cel-go/common/types"
+	"github.com/celAnyuquan/cel-go/common/types/ref"
+	"github.com/celAnyuquan/cel-go/interpreter"
+	"github.com/celAnyuquan/cel-go/parser"
 
 	exprpb "google.golang.org/genproto/googleapis/api/expr/v1alpha1"
 )

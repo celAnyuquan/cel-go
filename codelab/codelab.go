@@ -24,10 +24,10 @@ import (
 	"strings"
 	"time"
 
-	"github.com/google/cel-go/cel"
-	"github.com/google/cel-go/common/types"
-	"github.com/google/cel-go/common/types/ref"
-	"github.com/google/cel-go/common/types/traits"
+	"github.com/celAnyuquan/cel-go/cel"
+	"github.com/celAnyuquan/cel-go/common/types"
+	"github.com/celAnyuquan/cel-go/common/types/ref"
+	"github.com/celAnyuquan/cel-go/common/types/traits"
 
 	"github.com/golang/glog"
 	"google.golang.org/protobuf/encoding/protojson"

@@ -21,10 +21,10 @@ import (
 
 	"google.golang.org/protobuf/proto"
 
-	"github.com/google/cel-go/checker/decls"
-	"github.com/google/cel-go/common/types"
+	"github.com/celAnyuquan/cel-go/checker/decls"
+	"github.com/celAnyuquan/cel-go/common/types"
 
-	proto3pb "github.com/google/cel-go/test/proto3pb"
+	proto3pb "github.com/celAnyuquan/cel-go/test/proto3pb"
 	exprpb "google.golang.org/genproto/googleapis/api/expr/v1alpha1"
 )
 

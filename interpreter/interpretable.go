@@ -17,12 +17,12 @@ package interpreter
 import (
 	"math"
 
-	"github.com/google/cel-go/common/operators"
-	"github.com/google/cel-go/common/overloads"
-	"github.com/google/cel-go/common/types"
-	"github.com/google/cel-go/common/types/ref"
-	"github.com/google/cel-go/common/types/traits"
-	"github.com/google/cel-go/interpreter/functions"
+	"github.com/celAnyuquan/cel-go/common/operators"
+	"github.com/celAnyuquan/cel-go/common/overloads"
+	"github.com/celAnyuquan/cel-go/common/types"
+	"github.com/celAnyuquan/cel-go/common/types/ref"
+	"github.com/celAnyuquan/cel-go/common/types/traits"
+	"github.com/celAnyuquan/cel-go/interpreter/functions"
 )
 
 // Interpretable can accept a given Activation and produce a value along with

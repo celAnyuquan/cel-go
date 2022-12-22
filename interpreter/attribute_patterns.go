@@ -15,9 +15,9 @@
 package interpreter
 
 import (
-	"github.com/google/cel-go/common/containers"
-	"github.com/google/cel-go/common/types"
-	"github.com/google/cel-go/common/types/ref"
+	"github.com/celAnyuquan/cel-go/common/containers"
+	"github.com/celAnyuquan/cel-go/common/types"
+	"github.com/celAnyuquan/cel-go/common/types/ref"
 )
 
 // AttributePattern represents a top-level variable with an optional set of qualifier patterns.

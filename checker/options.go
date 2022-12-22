@@ -14,7 +14,7 @@
 
 package checker
 
-import "github.com/google/cel-go/checker/decls"
+import "github.com/celAnyuquan/cel-go/checker/decls"
 
 type options struct {
 	crossTypeNumericComparisons  bool

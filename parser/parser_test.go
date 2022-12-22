@@ -21,9 +21,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/google/cel-go/common"
-	"github.com/google/cel-go/common/debug"
-	"github.com/google/cel-go/test"
+	"github.com/celAnyuquan/cel-go/common"
+	"github.com/celAnyuquan/cel-go/common/debug"
+	"github.com/celAnyuquan/cel-go/test"
 
 	exprpb "google.golang.org/genproto/googleapis/api/expr/v1alpha1"
 )

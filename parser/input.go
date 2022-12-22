@@ -17,7 +17,7 @@ package parser
 import (
 	"github.com/antlr/antlr4/runtime/Go/antlr"
 
-	"github.com/google/cel-go/common/runes"
+	"github.com/celAnyuquan/cel-go/common/runes"
 )
 
 type charStream struct {

@@ -16,7 +16,7 @@ go_library(
         "options.go",
         "program.go",
     ],
-    importpath = "github.com/google/cel-go/cel",
+    importpath = "github.com/celAnyuquan/cel-go/cel",
     visibility = ["//visibility:public"],
     deps = [
         "//checker:go_default_library",

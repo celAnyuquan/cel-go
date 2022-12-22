@@ -13,7 +13,7 @@ go_library(
         "protos.go",
         "strings.go",
     ],
-    importpath = "github.com/google/cel-go/ext",
+    importpath = "github.com/celAnyuquan/cel-go/ext",
     visibility = ["//visibility:public"],
     deps = [
         "//cel:go_default_library",

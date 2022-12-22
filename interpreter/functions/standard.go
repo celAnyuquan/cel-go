@@ -15,11 +15,11 @@
 package functions
 
 import (
-	"github.com/google/cel-go/common/operators"
-	"github.com/google/cel-go/common/overloads"
-	"github.com/google/cel-go/common/types"
-	"github.com/google/cel-go/common/types/ref"
-	"github.com/google/cel-go/common/types/traits"
+	"github.com/celAnyuquan/cel-go/common/operators"
+	"github.com/celAnyuquan/cel-go/common/overloads"
+	"github.com/celAnyuquan/cel-go/common/types"
+	"github.com/celAnyuquan/cel-go/common/types/ref"
+	"github.com/celAnyuquan/cel-go/common/types/traits"
 )
 
 // StandardOverloads returns the definitions of the built-in overloads.

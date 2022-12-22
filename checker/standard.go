@@ -15,9 +15,9 @@
 package checker
 
 import (
-	"github.com/google/cel-go/checker/decls"
-	"github.com/google/cel-go/common/operators"
-	"github.com/google/cel-go/common/overloads"
+	"github.com/celAnyuquan/cel-go/checker/decls"
+	"github.com/celAnyuquan/cel-go/common/operators"
+	"github.com/celAnyuquan/cel-go/common/overloads"
 
 	exprpb "google.golang.org/genproto/googleapis/api/expr/v1alpha1"
 )

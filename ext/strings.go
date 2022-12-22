@@ -23,9 +23,9 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/google/cel-go/cel"
-	"github.com/google/cel-go/common/types"
-	"github.com/google/cel-go/common/types/ref"
+	"github.com/celAnyuquan/cel-go/cel"
+	"github.com/celAnyuquan/cel-go/common/types"
+	"github.com/celAnyuquan/cel-go/common/types/ref"
 )
 
 // Strings returns a cel.EnvOption to configure extended functions for string manipulation.

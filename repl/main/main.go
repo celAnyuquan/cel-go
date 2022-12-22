@@ -42,7 +42,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/google/cel-go/repl"
+	"github.com/celAnyuquan/cel-go/repl"
 
 	"github.com/chzyer/readline"
 )

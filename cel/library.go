@@ -19,15 +19,15 @@ import (
 	"strings"
 	"time"
 
-	"github.com/google/cel-go/checker"
-	"github.com/google/cel-go/common/operators"
-	"github.com/google/cel-go/common/overloads"
-	"github.com/google/cel-go/common/types"
-	"github.com/google/cel-go/common/types/ref"
-	"github.com/google/cel-go/common/types/traits"
-	"github.com/google/cel-go/interpreter"
-	"github.com/google/cel-go/interpreter/functions"
-	"github.com/google/cel-go/parser"
+	"github.com/celAnyuquan/cel-go/checker"
+	"github.com/celAnyuquan/cel-go/common/operators"
+	"github.com/celAnyuquan/cel-go/common/overloads"
+	"github.com/celAnyuquan/cel-go/common/types"
+	"github.com/celAnyuquan/cel-go/common/types/ref"
+	"github.com/celAnyuquan/cel-go/common/types/traits"
+	"github.com/celAnyuquan/cel-go/interpreter"
+	"github.com/celAnyuquan/cel-go/interpreter/functions"
+	"github.com/celAnyuquan/cel-go/parser"
 )
 
 // Library provides a collection of EnvOption and ProgramOption values used to configure a CEL

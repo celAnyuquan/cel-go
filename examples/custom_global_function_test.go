@@ -18,9 +18,9 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/google/cel-go/cel"
-	"github.com/google/cel-go/common/types"
-	"github.com/google/cel-go/common/types/ref"
+	"github.com/celAnyuquan/cel-go/cel"
+	"github.com/celAnyuquan/cel-go/common/types"
+	"github.com/celAnyuquan/cel-go/common/types/ref"
 )
 
 func ExampleCustomGlobalFunction() {

@@ -21,9 +21,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/google/cel-go/common/overloads"
-	"github.com/google/cel-go/common/types/ref"
-	"github.com/google/cel-go/common/types/traits"
+	"github.com/celAnyuquan/cel-go/common/overloads"
+	"github.com/celAnyuquan/cel-go/common/types/ref"
+	"github.com/celAnyuquan/cel-go/common/types/traits"
 
 	anypb "google.golang.org/protobuf/types/known/anypb"
 	structpb "google.golang.org/protobuf/types/known/structpb"

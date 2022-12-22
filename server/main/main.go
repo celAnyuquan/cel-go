@@ -16,7 +16,7 @@
 package main
 
 import (
-	"github.com/google/cel-go/server"
+	"github.com/celAnyuquan/cel-go/server"
 	"github.com/google/cel-spec/tools/celrpc"
 )
 

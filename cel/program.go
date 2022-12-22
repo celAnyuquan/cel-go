@@ -20,9 +20,9 @@ import (
 	"math"
 	"sync"
 
-	"github.com/google/cel-go/common/types"
-	"github.com/google/cel-go/common/types/ref"
-	"github.com/google/cel-go/interpreter"
+	"github.com/celAnyuquan/cel-go/common/types"
+	"github.com/celAnyuquan/cel-go/common/types/ref"
+	"github.com/celAnyuquan/cel-go/interpreter"
 
 	exprpb "google.golang.org/genproto/googleapis/api/expr/v1alpha1"
 )

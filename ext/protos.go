@@ -15,8 +15,8 @@
 package ext
 
 import (
-	"github.com/google/cel-go/cel"
-	"github.com/google/cel-go/common"
+	"github.com/celAnyuquan/cel-go/cel"
+	"github.com/celAnyuquan/cel-go/common"
 
 	exprpb "google.golang.org/genproto/googleapis/api/expr/v1alpha1"
 )

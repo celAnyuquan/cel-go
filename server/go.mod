@@ -1,9 +1,9 @@
-module github.com/google/cel-go/server
+module github.com/celAnyuquan/cel-go/server
 
 go 1.18
 
 require (
-	github.com/google/cel-go v0.12.5
+	github.com/celAnyuquan/cel-go v0.12.5
 	github.com/google/cel-spec v0.7.1
 	google.golang.org/genproto v0.0.0-20220909194730-69f6226f97e5
 	google.golang.org/protobuf v1.28.1
@@ -20,4 +20,4 @@ require (
 	google.golang.org/grpc v1.49.0 // indirect
 )
 
-replace github.com/google/cel-go => ./..
+replace github.com/celAnyuquan/cel-go => ./..

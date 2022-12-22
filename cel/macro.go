@@ -15,8 +15,8 @@
 package cel
 
 import (
-	"github.com/google/cel-go/common"
-	"github.com/google/cel-go/parser"
+	"github.com/celAnyuquan/cel-go/common"
+	"github.com/celAnyuquan/cel-go/parser"
 
 	exprpb "google.golang.org/genproto/googleapis/api/expr/v1alpha1"
 )

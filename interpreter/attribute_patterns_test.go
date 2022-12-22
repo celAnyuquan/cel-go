@@ -19,8 +19,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/google/cel-go/common/containers"
-	"github.com/google/cel-go/common/types"
+	"github.com/celAnyuquan/cel-go/common/containers"
+	"github.com/celAnyuquan/cel-go/common/types"
 )
 
 // attr describes a simplified format for specifying common Attribute and Qualifier values for

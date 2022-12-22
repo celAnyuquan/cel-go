@@ -17,7 +17,7 @@ package parser
 import (
 	"testing"
 
-	"github.com/google/cel-go/common"
+	"github.com/celAnyuquan/cel-go/common"
 
 	"google.golang.org/protobuf/proto"
 

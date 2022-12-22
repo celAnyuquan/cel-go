@@ -18,9 +18,9 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/google/cel-go/common"
-	"github.com/google/cel-go/common/operators"
-	"github.com/google/cel-go/common/types"
+	"github.com/celAnyuquan/cel-go/common"
+	"github.com/celAnyuquan/cel-go/common/operators"
+	"github.com/celAnyuquan/cel-go/common/types"
 )
 
 func TestIssuesNil(t *testing.T) {

@@ -18,7 +18,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/google/cel-go/cel"
+	"github.com/celAnyuquan/cel-go/cel"
 )
 
 func ExampleSimple() {

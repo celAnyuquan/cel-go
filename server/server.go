@@ -19,10 +19,10 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/google/cel-go/cel"
-	"github.com/google/cel-go/common"
-	"github.com/google/cel-go/common/types"
-	"github.com/google/cel-go/common/types/ref"
+	"github.com/celAnyuquan/cel-go/cel"
+	"github.com/celAnyuquan/cel-go/common"
+	"github.com/celAnyuquan/cel-go/common/types"
+	"github.com/celAnyuquan/cel-go/common/types/ref"
 
 	test2pb "github.com/google/cel-spec/proto/test/v1/proto2/test_all_types"
 	test3pb "github.com/google/cel-spec/proto/test/v1/proto3/test_all_types"

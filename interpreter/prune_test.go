@@ -17,10 +17,10 @@ package interpreter
 import (
 	"testing"
 
-	"github.com/google/cel-go/common"
-	"github.com/google/cel-go/common/containers"
-	"github.com/google/cel-go/parser"
-	"github.com/google/cel-go/test"
+	"github.com/celAnyuquan/cel-go/common"
+	"github.com/celAnyuquan/cel-go/common/containers"
+	"github.com/celAnyuquan/cel-go/parser"
+	"github.com/celAnyuquan/cel-go/test"
 )
 
 type testInfo struct {

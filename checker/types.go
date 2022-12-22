@@ -18,7 +18,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/google/cel-go/checker/decls"
+	"github.com/celAnyuquan/cel-go/checker/decls"
 
 	"google.golang.org/protobuf/proto"
 

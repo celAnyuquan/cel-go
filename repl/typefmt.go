@@ -20,7 +20,7 @@ import (
 
 	"github.com/antlr/antlr4/runtime/Go/antlr"
 
-	"github.com/google/cel-go/repl/parser"
+	"github.com/celAnyuquan/cel-go/repl/parser"
 
 	exprpb "google.golang.org/genproto/googleapis/api/expr/v1alpha1"
 )

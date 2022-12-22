@@ -19,7 +19,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/google/cel-go/cel"
+	"github.com/celAnyuquan/cel-go/cel"
 )
 
 func TestMath(t *testing.T) {
